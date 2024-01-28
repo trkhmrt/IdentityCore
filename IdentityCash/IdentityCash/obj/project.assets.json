@@ -3028,11 +3028,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/IdentityCash/IdentityCash.csproj",
+      "projectUniqueName": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/IdentityCash/IdentityCash.csproj",
       "projectName": "IdentityCash",
-      "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/IdentityCash/IdentityCash.csproj",
+      "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/IdentityCash/IdentityCash.csproj",
       "packagesPath": "/Users/tarikhamarat/.nuget/packages/",
-      "outputPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/IdentityCash/obj/",
+      "outputPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/IdentityCash/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tarikhamarat/.nuget/NuGet/NuGet.Config"
@@ -3049,17 +3049,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/tarikhamarat/Documents/GitHub/IdentityCash/BusinessLayer/BusinessLayer.csproj": {
-              "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/BusinessLayer/BusinessLayer.csproj"
+            "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/BusinessLayer/BusinessLayer.csproj": {
+              "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/BusinessLayer/BusinessLayer.csproj"
             },
-            "/Users/tarikhamarat/Documents/GitHub/IdentityCash/DataAccessLayer/DataAccessLayer.csproj": {
-              "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/DataAccessLayer/DataAccessLayer.csproj"
+            "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DataAccessLayer/DataAccessLayer.csproj": {
+              "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DataAccessLayer/DataAccessLayer.csproj"
             },
-            "/Users/tarikhamarat/Documents/GitHub/IdentityCash/DtoLayer/DtoLayer.csproj": {
-              "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/DtoLayer/DtoLayer.csproj"
+            "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/DtoLayer.csproj": {
+              "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/DtoLayer.csproj"
             },
-            "/Users/tarikhamarat/Documents/GitHub/IdentityCash/EntityLayer/EntityLayer.csproj": {
-              "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/EntityLayer/EntityLayer.csproj"
+            "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/EntityLayer/EntityLayer.csproj": {
+              "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/EntityLayer/EntityLayer.csproj"
             }
           }
         }

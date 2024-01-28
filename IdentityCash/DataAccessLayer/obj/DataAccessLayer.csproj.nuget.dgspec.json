@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tarikhamarat/Documents/GitHub/IdentityCash/DataAccessLayer/DataAccessLayer.csproj": {}
+    "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DataAccessLayer/DataAccessLayer.csproj": {}
   },
   "projects": {
-    "/Users/tarikhamarat/Documents/GitHub/IdentityCash/DataAccessLayer/DataAccessLayer.csproj": {
+    "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DataAccessLayer/DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/DataAccessLayer/DataAccessLayer.csproj",
+        "projectUniqueName": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DataAccessLayer/DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/DataAccessLayer/DataAccessLayer.csproj",
+        "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DataAccessLayer/DataAccessLayer.csproj",
         "packagesPath": "/Users/tarikhamarat/.nuget/packages/",
-        "outputPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/DataAccessLayer/obj/",
+        "outputPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DataAccessLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tarikhamarat/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/tarikhamarat/Documents/GitHub/IdentityCash/EntityLayer/EntityLayer.csproj": {
-                "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/EntityLayer/EntityLayer.csproj"
+              "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/EntityLayer/EntityLayer.csproj": {
+                "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/EntityLayer/EntityLayer.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "/Users/tarikhamarat/Documents/GitHub/IdentityCash/EntityLayer/EntityLayer.csproj": {
+    "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/EntityLayer/EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/EntityLayer/EntityLayer.csproj",
+        "projectUniqueName": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/EntityLayer/EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/EntityLayer/EntityLayer.csproj",
+        "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/EntityLayer/EntityLayer.csproj",
         "packagesPath": "/Users/tarikhamarat/.nuget/packages/",
-        "outputPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/EntityLayer/obj/",
+        "outputPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/EntityLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tarikhamarat/.nuget/NuGet/NuGet.Config"

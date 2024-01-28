@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tarikhamarat/Documents/GitHub/IdentityCash/DtoLayer/DtoLayer.csproj": {}
+    "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/DtoLayer.csproj": {}
   },
   "projects": {
-    "/Users/tarikhamarat/Documents/GitHub/IdentityCash/DtoLayer/DtoLayer.csproj": {
+    "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/DtoLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/DtoLayer/DtoLayer.csproj",
+        "projectUniqueName": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/DtoLayer.csproj",
         "projectName": "DtoLayer",
-        "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/DtoLayer/DtoLayer.csproj",
+        "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/DtoLayer.csproj",
         "packagesPath": "/Users/tarikhamarat/.nuget/packages/",
-        "outputPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCash/DtoLayer/obj/",
+        "outputPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tarikhamarat/.nuget/NuGet/NuGet.Config"

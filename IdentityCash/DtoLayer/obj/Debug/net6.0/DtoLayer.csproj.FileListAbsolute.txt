@@ -12,3 +12,17 @@
 /Users/tarikhamarat/Documents/GitHub/IdentityCash/DtoLayer/obj/Debug/net6.0/DtoLayer.pdb
 /Users/tarikhamarat/Documents/GitHub/IdentityCash/DtoLayer/obj/Debug/net6.0/DtoLayer.genruntimeconfig.cache
 /Users/tarikhamarat/Documents/GitHub/IdentityCash/DtoLayer/obj/Debug/net6.0/ref/DtoLayer.dll
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/bin/Debug/net6.0/DtoLayer.deps.json
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/bin/Debug/net6.0/DtoLayer.runtimeconfig.json
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/bin/Debug/net6.0/DtoLayer.dll
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/bin/Debug/net6.0/DtoLayer.pdb
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/obj/Debug/net6.0/DtoLayer.csproj.AssemblyReference.cache
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/obj/Debug/net6.0/DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/obj/Debug/net6.0/DtoLayer.AssemblyInfoInputs.cache
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/obj/Debug/net6.0/DtoLayer.AssemblyInfo.cs
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/obj/Debug/net6.0/DtoLayer.csproj.CoreCompileInputs.cache
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/obj/Debug/net6.0/DtoLayer.dll
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/obj/Debug/net6.0/refint/DtoLayer.dll
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/obj/Debug/net6.0/DtoLayer.pdb
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/obj/Debug/net6.0/DtoLayer.genruntimeconfig.cache
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/obj/Debug/net6.0/ref/DtoLayer.dll

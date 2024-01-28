@@ -1,8 +1,4 @@
 ﻿<Properties StartupConfiguration="{74DF8E3D-5143-4701-89D2-08BA5BBE7FC2}|Default">
-  <MonoDevelop.Ide.ItemProperties.DataAccessLayer FirstBuild="True" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DtoLayer FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.BusinessLayer FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.EntityLayer FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.IdentityCash PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.IdentityCash PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
