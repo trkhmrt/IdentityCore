@@ -20,4 +20,16 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.26" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="AppRoleDtos\" />
+    <None Remove="AppUserDtos\" />
+    <None Remove="CustomerAccountDtos\" />
+    <None Remove="CustomerAccountProcessDtos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AppRoleDtos\" />
+    <Folder Include="AppUserDtos\" />
+    <Folder Include="CustomerAccountDtos\" />
+    <Folder Include="CustomerAccountProcessDtos\" />
+  </ItemGroup>
 </Project>

@@ -160,3 +160,7 @@
 /Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/IdentityCash/obj/Debug/net6.0/IdentityCash.pdb
 /Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/IdentityCash/obj/Debug/net6.0/IdentityCash.genruntimeconfig.cache
 /Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/IdentityCash/obj/Debug/net6.0/ref/IdentityCash.dll
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/IdentityCash/bin/Debug/net6.0/FluentValidation.dll
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/IdentityCash/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/IdentityCash/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/IdentityCash/obj/Debug/net6.0/IdentityCash.MvcApplicationPartsAssemblyInfo.cs
