@@ -36,3 +36,5 @@
 /Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/BusinessLayer/obj/Debug/net6.0/BusinessLayer.pdb
 /Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/BusinessLayer/obj/Debug/net6.0/BusinessLayer.genruntimeconfig.cache
 /Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/BusinessLayer/obj/Debug/net6.0/ref/BusinessLayer.dll
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/BusinessLayer/bin/Debug/net6.0/DtoLayer.dll
+/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/BusinessLayer/bin/Debug/net6.0/DtoLayer.pdb

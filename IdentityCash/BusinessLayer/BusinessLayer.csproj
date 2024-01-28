@@ -26,5 +26,20 @@
   <ItemGroup>
     <ProjectReference Include="..\EntityLayer\EntityLayer.csproj" />
     <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj" />
+    <ProjectReference Include="..\DtoLayer\DtoLayer.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="ValidationRules\" />
+    <None Remove="ValidationRules\AppUserValidationRules\" />
+    <None Remove="ValidationRules\AppRoleValidationRules\" />
+    <None Remove="ValidationRules\CustomerAccountValidationRules\" />
+    <None Remove="ValidationRules\CustomerAccountProcessValidationRules\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ValidationRules\" />
+    <Folder Include="ValidationRules\AppUserValidationRules\" />
+    <Folder Include="ValidationRules\AppRoleValidationRules\" />
+    <Folder Include="ValidationRules\CustomerAccountValidationRules\" />
+    <Folder Include="ValidationRules\CustomerAccountProcessValidationRules\" />
   </ItemGroup>
 </Project>

@@ -1326,6 +1326,22 @@
           "bin/placeholder/DataAccessLayer.dll": {}
         }
       },
+      "DtoLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.26",
+          "Microsoft.EntityFrameworkCore": "6.0.26",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.26"
+        },
+        "compile": {
+          "bin/placeholder/DtoLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DtoLayer.dll": {}
+        }
+      },
       "EntityLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -3069,6 +3085,11 @@
       "path": "../DataAccessLayer/DataAccessLayer.csproj",
       "msbuildProject": "../DataAccessLayer/DataAccessLayer.csproj"
     },
+    "DtoLayer/1.0.0": {
+      "type": "project",
+      "path": "../DtoLayer/DtoLayer.csproj",
+      "msbuildProject": "../DtoLayer/DtoLayer.csproj"
+    },
     "EntityLayer/1.0.0": {
       "type": "project",
       "path": "../EntityLayer/EntityLayer.csproj",
@@ -3078,6 +3099,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "DataAccessLayer >= 1.0.0",
+      "DtoLayer >= 1.0.0",
       "EntityLayer >= 1.0.0",
       "FluentValidation >= 11.9.0",
       "FluentValidation.AspNetCore >= 11.3.0",
@@ -3118,6 +3140,9 @@
           "projectReferences": {
             "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DataAccessLayer/DataAccessLayer.csproj": {
               "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DataAccessLayer/DataAccessLayer.csproj"
+            },
+            "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/DtoLayer.csproj": {
+              "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/DtoLayer/DtoLayer.csproj"
             },
             "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/EntityLayer/EntityLayer.csproj": {
               "projectPath": "/Users/tarikhamarat/Documents/GitHub/IdentityCore/IdentityCash/EntityLayer/EntityLayer.csproj"
