@@ -3,7 +3,7 @@ namespace DataAccessLayer.Abstract
 {
 	public interface IGenericDAL<T> where T: class 
 	{
-		void Inser(T t);
+		void Insert(T t);
 
 		void Delete(T t);
 

@@ -26,17 +26,17 @@ namespace BusinessLayer.Concrete
 
         public List<CustomerAccount> TGetList()
         {
-            throw new NotImplementedException();
+            return customerAccountDal.GetList();
         }
 
-        public void TInser(CustomerAccount t)
+        public void TInsert(CustomerAccount t)
         {
-            throw new NotImplementedException();
+            customerAccountDal.Insert(t);
         }
 
         public void TUpdate(CustomerAccount t)
         {
-            throw new NotImplementedException();
+            customerAccountDal.Update(t);
         }
     }
 }

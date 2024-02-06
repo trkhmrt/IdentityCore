@@ -29,7 +29,7 @@ namespace DataAccessLayer.Repositories
             return context.Set<T>().ToList();
         }
 
-        public void Inser(T t)
+        public void Insert(T t)
         {
             using var context = new Context();
             context.Set<T>().Add(t);

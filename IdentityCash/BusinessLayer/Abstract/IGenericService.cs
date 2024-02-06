@@ -3,7 +3,7 @@ namespace BusinessLayer.Abstract
 {
 	public interface IGenericService<T> where T : class
 	{
-        void TInser(T t);
+        void TInsert(T t);
 
         void TDelete(T t);
 
