@@ -1,4 +1,40 @@
 ﻿<Properties StartupConfiguration="{74DF8E3D-5143-4701-89D2-08BA5BBE7FC2}|Default">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BusinessLayer/Concrete/CustomerAccountManager.cs">
+    <Files>
+      <File FileName="DtoLayer/AppUserDtos/AppUserRegisterDto.cs" />
+      <File FileName="BusinessLayer/ValidationRules/AppUserValidationRules/AppUserRegisterValidator.cs" />
+      <File FileName="EntityLayer/Concrete/AppUser.cs" />
+      <File FileName="EntityLayer/Concrete/AppRole.cs" />
+      <File FileName="DataAccessLayer/Concrete/Context.cs" Line="21" Column="2" />
+      <File FileName="DataAccessLayer/Abstract/IGenericDAL.cs" Line="6" Column="3" />
+      <File FileName="DataAccessLayer/Abstract/ICustomerAccountDal.cs" Line="8" Column="1" />
+      <File FileName="DataAccessLayer/Abstract/ICustomerAccountProcessDal.cs" Line="8" Column="1" />
+      <File FileName="DataAccessLayer/Repositories/GenericRepository.cs" Line="41" Column="36" />
+      <File FileName="BusinessLayer/Abstract/IGenericService.cs" Line="14" Column="18" />
+      <File FileName="BusinessLayer/Abstract/ICustomerAccountService.cs" Line="8" Column="1" />
+      <File FileName="BusinessLayer/Abstract/ICustomerAccountProcessService.cs" Line="8" Column="1" />
+      <File FileName="BusinessLayer/Concrete/CustomerAccountManager.cs" Line="40" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IdentityCash">
+            <Node name="BusinessLayer">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True">
+                <Node name="CustomerAccountManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.IdentityCash PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
 </Properties>
